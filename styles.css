@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #b48cf0;
+}
+div {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 30px;
+}
+.imagen img {
+  height: 300px;
+  border-style: dashed;
+  border-radius: 50px;
+}
+.titulo h1 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Forte";
+}
+.enlace p {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Forte";
+}
+.subtitulo h1 {
+  color: white;
+  font-size: 30px;
+  text-align: justify;
+  font-family: "Forte";
+  line-height: 50px;
+}
+.titulo h2 {
+  color: white;
+  font-size: 40px;
+  text-align: left;
+  font-family: "Forte";
+}
